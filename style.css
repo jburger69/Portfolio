@@ -11,6 +11,8 @@ body {
 }
 
 .header-title {
+    margin: 50px;
+    color: floralwhite;
     text-align: center;
     font-family: "Lucida Console", "Courier New", monospace;
 }
